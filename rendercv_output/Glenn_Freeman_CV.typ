@@ -51,7 +51,7 @@
   header-photo-width: 3.5cm,
   header-space-below-name: 0.4cm,
   header-space-below-headline: 0.7cm,
-  header-space-below-connections: 0.7cm,
+  header-space-below-connections: 0.35cm,
   header-connections-hyperlink: true,
   header-connections-show-icons: true,
   header-connections-display-urls-instead-of-usernames: false,

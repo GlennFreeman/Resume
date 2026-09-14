@@ -135,7 +135,7 @@ design:
     alignment: center
     space_below_name: 0.4cm
     space_below_headline: 0.7cm
-    space_below_connections: 0.7cm
+    space_below_connections: 0.35cm
     connections:
       phone_number_format: national
       hyperlink: true
