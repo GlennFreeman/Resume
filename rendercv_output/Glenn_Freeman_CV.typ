@@ -174,7 +174,7 @@
 
   ],
   main-column-second-row: [
-    - Achieved 5\% growth for SLA using technical skills to solve tickets and improve documentation.
+    - Resolved technical issues across managed client environments while meeting service-level requirements and improving internal documentation.
 
   ],
 )
@@ -183,26 +183,30 @@
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/GlennFreeman/REPORT_LAND")[Report Automation]]
+    #strong[#link("https://github.com/GlennFreeman/cognito-master-the-inquiry")[Cognito - Master the Inquiry]]
 
   ],
   [
-    #emph[Apr 2024 – present]
+    #emph[June 2024 – present]
 
   ],
   main-column-second-row: [
-    #summary[Automated reports from company's Electronic Healthcare System using Data engineering principles such as ETL.]
+    #summary[Developed a Godot-based Jeopardy-style game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.]
 
-    - Made a manual process that would take months possible in the span of a couple hours.
+    - Designed the application architecture in GDScript, including separate game display and host control interfaces.
 
-    - Made tracking certain KPI's possible, increasing our compliance with our contracts.
+    - Implemented configurable themes, question-set loading, input validation, game-state management, and reusable UI components.
+
+    - Designed the application for portable deployment without requiring installation or external runtime dependencies.
+
+    - Currently expanding the application with media support, persistent settings, improved controls, and a question-set creation workflow.
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/GlennFreeman/CSAP")[Marketing Ai]]
+    #strong[#link("https://github.com/GlennFreeman/CSAP")[Marketing AI]]
 
   ],
   [
@@ -210,9 +214,13 @@
 
   ],
   main-column-second-row: [
-    #summary[Lead the development of a Python application that ran a local LLM using Ollama to help marketing teams generate campaigns from trending news articles.]
+    #summary[Led development of a Python application that used a locally hosted LLM through Ollama to help marketing teams generate campaigns from trending news articles.]
 
-    - This project won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
+    - Integrated local LLM inference with external news data to create an automated content-generation workflow.
+
+    - Designed the application to process, transform, and provide relevant source information as context for generated campaigns.
+
+    - Won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
 
   ],
 )
@@ -225,9 +233,9 @@
 
 #strong[Data:] SQL, Relational Databases, ETL, Data Pipelines, Data Processing, Data Validation
 
-#strong[Languages:] Python, Java, C\#, HTML, CSS, JS, SQL, GDScript
+#strong[Languages:] Python, Java, C\#, GDScript, JavaScript, HTML, CSS, SQL
 
-#strong[Web & Automation:] REST APIs, HTTP, CSS, JS, JSON, Web Automation, Asynchronous Programming
+#strong[Web & APIs:] REST APIs, HTTP, JSON, Web Automation, Asynchronous Programming
 
 #strong[Deployment:] Docker, AWS, Linux
 

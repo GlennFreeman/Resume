@@ -1,0 +1,172 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Glenn Freeman
+  location: Atlanta, GA
+  email: glenn.freeman.business@gmail.com
+  phone: +1 770 670 8261
+  social_networks:
+    - network: LinkedIn
+      username: GlennJLFreeman
+    - network: GitHub
+      username: GlennFreeman
+
+  sections:
+    education:
+      - institution: Kennesaw State University
+        area: Software Engineering
+        degree: BS
+        start_date: 2024-08
+        end_date: present
+        location: Marietta, GA
+        highlights:
+
+      - institution: West Georgia Technical College
+        area: Computer Programming, Computer Support Specialist
+        degree: AAS
+        start_date: 2022-06
+        end_date: 2024-05
+        location: Douglasville, GA
+        highlights:
+          - FBLA Collegiate Chapter **Vice President**, *2023*
+          - Georgia FBLA Collegiate **Vice President of Communication**, *2024*
+
+    experience:
+      - company: Douglas County Community Services Board DBA ONE Community Health Solution
+        position: IT Systems Tech
+        start_date: 2024-04
+        end_date: present
+        location: Douglasville, GA
+        highlights:
+          - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours of automated execution.
+          - Developed and maintained Python reporting infrastructure using Ibis and DuckDB, improving operational accountability and reducing missed notes and charge slips by 99%.
+
+      - company: Intelliteach DBA Frontline Managed Services
+        position: Overnight IT Service Desk Analyst
+        start_date: 2020-02
+        end_date: 2021-08
+        location: Atlanta, GA
+        highlights:
+          - Resolved technical issues across managed client environments while meeting service-level requirements and improving internal documentation.
+
+    projects:
+      - name: '[Cognito - Master the Inquiry](https://github.com/GlennFreeman/cognito-master-the-inquiry)'
+        start_date: 2024-06
+        end_date: present
+        summary: Developed a Godot-based Jeopardy-style game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
+        highlights:
+          - Designed the application architecture in GDScript, including separate game display and host control interfaces.
+          - Implemented configurable themes, question-set loading, input validation, game-state management, and reusable UI components.
+          - Designed the application for portable deployment without requiring installation or external runtime dependencies.
+          - Currently expanding the application with media support, persistent settings, improved controls, and a question-set creation workflow.
+
+      - name: '[Marketing AI](https://github.com/GlennFreeman/CSAP)'
+        start_date: 2024-01
+        end_date: 2024-06
+        summary: Led development of a Python application that used a locally hosted LLM through Ollama to help marketing teams generate campaigns from trending news articles.
+        highlights:
+          - Integrated local LLM inference with external news data to create an automated content-generation workflow.
+          - Designed the application to process, transform, and provide relevant source information as context for generated campaigns.
+          - Won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
+
+    skills:
+      - label: Development
+        details: Object-Oriented Programming, Data Structures, Algorithms, Software Development, Application Development, Software Design, Modular Design
+
+      - label: Engineering
+        details: Git, Version Control, Testing, Debugging, Error Handling, Logging, Documentation, Agile/Scrum
+
+      - label: Data
+        details: SQL, Relational Databases, ETL, Data Pipelines, Data Processing, Data Validation
+
+      - label: Languages
+        details: Python, Java, C#, GDScript, JavaScript, HTML, CSS, SQL
+
+      - label: Web & APIs
+        details: REST APIs, HTTP, JSON, Web Automation, Asynchronous Programming
+
+      - label: Deployment
+        details: Docker, AWS, Linux
+
+      - label: Business Programs
+        details: Excel, Word, PowerPoint
+
+    Awards & Leadership:
+      - name: Georgia FBLA Collegiate State Leadership Conference
+        highlights:
+          - 1ˢᵗ PLACE PROGRAMMING CONCEPTS, *April 2023*
+          - 1ˢᵗ PLACE FOUNDATIONS OF COMPUTER SCIENCE, *April 2024*
+          - 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, *April 2024*
+          - 1ˢᵗ PLACE FOUNDATIONS OF TECHNOLOGY, *April 2025*
+
+      - name: FBLA Collegiate National Leadership Conference
+        highlights:
+          - 1ˢᵗ PLACE PROGRAMMING CONCEPTS, *June 2023*
+          - 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, *June 2024*
+
+design:
+  theme: sb2nov
+
+  page:
+    size: us-letter
+    top_margin: 0.3in
+    bottom_margin: 0.3in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: False
+    show_top_note: False
+
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(111, 84, 156)
+    headline: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(111, 84, 156)
+    links: rgb(0, 79, 144)
+
+  links:
+    underline: true
+    show_external_link_icon: false
+
+  header:
+    alignment: center
+    space_below_name: 0.4cm
+    space_below_headline: 0.7cm
+    space_below_connections: 0.35cm
+    connections:
+      phone_number_format: national
+      hyperlink: true
+      show_icons: true
+      display_urls_instead_of_usernames: false
+      separator: ''
+      space_between_connections: 0.5cm
+
+  section_titles:
+    type: with_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.45cm
+    space_below: 0.2cm
+
+locale:
+  language: english
+
+settings:
+  current_date: today
+
+  render_command:
+    output_folder: rendercv_output
+    design:
+    locale:
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+
+  bold_keywords: []
+
+  pdf_title: NAME - CV
