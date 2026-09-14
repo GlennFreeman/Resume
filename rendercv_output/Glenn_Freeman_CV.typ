@@ -59,7 +59,7 @@
   header-connections-space-between-connections: 0.5cm,
   section-titles-type: "with_partial_line",
   section-titles-line-thickness: 0.5pt,
-  section-titles-space-above: 0.35cm,
+  section-titles-space-above: 0.45cm,
   section-titles-space-below: 0.2cm,
   sections-allow-page-break: true,
   sections-space-between-text-based-entries: 0.3em,

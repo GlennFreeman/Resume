@@ -146,7 +146,7 @@ design:
   section_titles:
     type: with_partial_line
     line_thickness: 0.5pt
-    space_above: 0.35cm
+    space_above: 0.45cm
     space_below: 0.2cm
   # sections:
   #   allow_page_break: true
