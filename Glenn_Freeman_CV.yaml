@@ -44,24 +44,21 @@ cv:
         highlights:
           - Achieved 5% growth for SLA using technical skills to solve tickets and improve documentation.
     projects:
-      - name: '[FlashInfer](https://github.com/)'
+      - name: '[Report Automation](https://github.com/GlennFreeman/REPORT_LAND)'
         date:
-        start_date: 2023-01
+        start_date: 2024-04
         end_date: present
         location:
-        summary: Open-source library for high-performance LLM inference kernels
+        summary: Automated reports from company's Electronic Healthcare System using Data engineering principles such as ETL.
         highlights:
-          - Achieved 2.8x speedup over baseline attention implementations on A100 GPUs
-          - Adopted by 3 major AI labs, 8,500+ GitHub stars, 200+ contributors
-      - name: '[NeuralPrune](https://github.com/)'
-        date: '2021'
-        start_date:
-        end_date:
-        location:
-        summary: Automated neural network pruning toolkit with differentiable masks
+          - Made a manual process that would take months possible in the span of a couple hours.
+          - Made tracking certain KPI's possible, increasing our compliance with our contracts.
+      - name: '[Marketing Ai](https://github.com/GlennFreeman/CSAP)'
+        start_date: 2024-01
+        end_date: 2024-06
+        summary: Lead the development of a Python application that ran a local LLM using Ollama to help marketing teams generate campaigns from trending news articles.
         highlights:
-          - Reduced model size by 90% with less than 1% accuracy degradation on ImageNet
-          - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
+          - This project won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
     skills:
       - label: Languages
         details: Python, Java, C#, HTML, CSS, JS, GDScript

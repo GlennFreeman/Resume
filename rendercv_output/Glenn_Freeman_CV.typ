@@ -183,38 +183,36 @@
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/")[FlashInfer]]
+    #strong[#link("https://github.com/GlennFreeman/REPORT_LAND")[Report Automation]]
 
   ],
   [
-    #emph[Jan 2023 – present]
+    #emph[Apr 2024 – present]
 
   ],
   main-column-second-row: [
-    #summary[Open-source library for high-performance LLM inference kernels]
+    #summary[Automated reports from company's Electronic Healthcare System using Data engineering principles such as ETL.]
 
-    - Achieved 2.8x speedup over baseline attention implementations on A100 GPUs
+    - Made a manual process that would take months possible in the span of a couple hours.
 
-    - Adopted by 3 major AI labs, 8,500+ GitHub stars, 200+ contributors
+    - Made tracking certain KPI's possible, increasing our compliance with our contracts.
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/")[NeuralPrune]]
+    #strong[#link("https://github.com/GlennFreeman/CSAP")[Marketing Ai]]
 
   ],
   [
-    #emph[Jan 2021]
+    #emph[Jan 2024 – June 2024]
 
   ],
   main-column-second-row: [
-    #summary[Automated neural network pruning toolkit with differentiable masks]
+    #summary[Lead the development of a Python application that ran a local LLM using Ollama to help marketing teams generate campaigns from trending news articles.]
 
-    - Reduced model size by 90\% with less than 1\% accuracy degradation on ImageNet
-
-    - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
+    - This project won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
 
   ],
 )
