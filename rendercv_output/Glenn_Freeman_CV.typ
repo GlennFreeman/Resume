@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 11,
+    day: 14,
   ),
 )
 
@@ -164,7 +164,7 @@
   [
     #strong[Overnight IT Service Desk Analyst]
 
-    #emph[Intelliteach]
+    #emph[Intelliteach DBA Frontline Managed Services]
 
   ],
   [
@@ -231,12 +231,36 @@
 
 == Accolades
 
-- MIT Technology Review 35 Under 35 Innovators (2024)
+  #regular-entry(
+  [
+    #strong[Georgia FBLA Collegiate State Leadership Conference]
 
-- Forbes 30 Under 30 in Enterprise Technology (2024)
+  ],
+  [
+  ],
+  main-column-second-row: [
+    - 1ˢᵗ PLACE PROGRAMMING CONCEPTS, #emph[April 2023]
 
-- ACM Doctoral Dissertation Award Honorable Mention (2023)
+    - 1ˢᵗ PLACE FOUNDATIONS OF COMPUTER SCIENCE, #emph[April 2024]
 
-- Google PhD Fellowship in Machine Learning (2020 – 2023)
+    - 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, #emph[April 2024]
 
-- Fulbright Scholarship for Graduate Studies (2018)
+    - 1ˢᵗ PLACE FOUNDATIONS OF TECHNOLOGY, #emph[April 2025]
+
+  ],
+)
+
+  #regular-entry(
+  [
+    #strong[FBLA Collegiate National Leadership Conference]
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+    - 1ˢᵗ PLACE PROGRAMMING CONCEPTS, #emph[June 2023]
+
+    - 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, #emph[June 2024]
+
+  ],
+)

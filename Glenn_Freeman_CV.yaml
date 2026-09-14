@@ -36,7 +36,7 @@ cv:
         highlights:
           - Built ETL pipline using Python to migrate EHR providers. Turned a multi-month process into a 2 hour script run.
           - Created and maintained reporting infrastructure built in Python using Ibis, PyDoll, and DuckDB that increased accountability and reduced missed notes and chargeslips by 99%.
-      - company: Intelliteach
+      - company: Intelliteach DBA Frontline Managed Services
         position: Overnight IT Service Desk Analyst
         start_date: 2020-02
         end_date: 2021-08
@@ -72,11 +72,16 @@ cv:
       - label: Business Programs
         details: Excel, Word, PowerPoint, Photoshop, Illustrator, AfterEffects, Premiere
     accolades:
-      - bullet: MIT Technology Review 35 Under 35 Innovators (2024)
-      - bullet: Forbes 30 Under 30 in Enterprise Technology (2024)
-      - bullet: ACM Doctoral Dissertation Award Honorable Mention (2023)
-      - bullet: Google PhD Fellowship in Machine Learning (2020 – 2023)
-      - bullet: Fulbright Scholarship for Graduate Studies (2018)
+      - name : Georgia FBLA Collegiate State Leadership Conference
+        highlights:
+          - 1ˢᵗ PLACE PROGRAMMING CONCEPTS, *April 2023*
+          - 1ˢᵗ PLACE FOUNDATIONS OF COMPUTER SCIENCE, *April 2024*
+          - 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, *April 2024*
+          - 1ˢᵗ PLACE FOUNDATIONS OF TECHNOLOGY, *April 2025*
+      - name: FBLA Collegiate National Leadership Conference
+        highlights:
+          - 1ˢᵗ PLACE PROGRAMMING CONCEPTS, *June 2023*
+          - 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, *June 2024*
 design:
   theme: sb2nov
   page:

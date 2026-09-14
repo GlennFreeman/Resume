@@ -53,7 +53,7 @@
 
 *Feb 2020 – Aug 2021*
 
-*Intelliteach*
+*Intelliteach DBA Frontline Managed Services*
 
 - Achieved 5% growth for SLA using technical skills to solve tickets and improve documentation.
 
@@ -94,12 +94,22 @@ Automated neural network pruning toolkit with differentiable masks
 **Business Programs:** Excel, Word, PowerPoint, Photoshop, Illustrator, AfterEffects, Premiere
 
 # Accolades
-- MIT Technology Review 35 Under 35 Innovators (2024)
+## **Georgia FBLA Collegiate State Leadership Conference**
 
-- Forbes 30 Under 30 in Enterprise Technology (2024)
+- 1ˢᵗ PLACE PROGRAMMING CONCEPTS, *April 2023*
 
-- ACM Doctoral Dissertation Award Honorable Mention (2023)
+- 1ˢᵗ PLACE FOUNDATIONS OF COMPUTER SCIENCE, *April 2024*
 
-- Google PhD Fellowship in Machine Learning (2020 – 2023)
+- 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, *April 2024*
 
-- Fulbright Scholarship for Graduate Studies (2018)
+- 1ˢᵗ PLACE FOUNDATIONS OF TECHNOLOGY, *April 2025*
+
+
+
+## **FBLA Collegiate National Leadership Conference**
+
+- 1ˢᵗ PLACE PROGRAMMING CONCEPTS, *June 2023*
+
+- 1ˢᵗ PLACE TECHNOLOGY & COMPUTER SCIENCE CASE COMPETITION, *June 2024*
+
+
