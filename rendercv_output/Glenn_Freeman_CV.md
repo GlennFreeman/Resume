@@ -41,9 +41,9 @@
 
 *Douglas County Community Services Board DBA ONE Community Health Solution*
 
-- Built ETL pipline using Python to migrate EHR providers. Turned a multi-month process into a 2 hour script run.
+- Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours of automated execution.
 
-- Created and maintained reporting infrastructure built in Python using Ibis, PyDoll, and DuckDB that increased accountability and reduced missed notes and chargeslips by 99%.
+- Developed and maintained Python reporting infrastructure using Ibis and DuckDB, improving operational accountability and reducing missed notes and charge slips by 99%.
 
 
 
@@ -83,15 +83,21 @@ Lead the development of a Python application that ran a local LLM using Ollama t
 
 
 # Skills
-**Languages:** Python, Java, C#, HTML, CSS, JS, GDScript
+**Development:** Object-Oriented Programming, Data Structures, Algorithms, Software Development, Application Development, Software Design, Modular Design
 
-**ETL Libraries:** Pandas, Polars, Ibis, DuckDB, PyDoll, nodriver
+**Engineering:** Git, Version Control, Testing, Debugging, Error Handling, Logging, Documentation, Agile/Scrum
 
-**Infrastructure:** AWS, Docker
+**Data:** SQL, Relational Databases, ETL, Data Pipelines, Data Processing, Data Validation
 
-**Business Programs:** Excel, Word, PowerPoint, Photoshop, Illustrator, AfterEffects, Premiere
+**Languages:** Python, Java, C#, HTML, CSS, JS, SQL, GDScript
 
-# Accolades
+**Web & Automation:** REST APIs, HTTP, CSS, JS, JSON, Web Automation, Asynchronous Programming
+
+**Deployment:** Docker, AWS, Linux
+
+**Business Programs:** Excel, Word, PowerPoint
+
+# Awards & Leadership
 ## **Georgia FBLA Collegiate State Leadership Conference**
 
 - 1ˢᵗ PLACE PROGRAMMING CONCEPTS, *April 2023*

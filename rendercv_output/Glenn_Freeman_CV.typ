@@ -10,8 +10,8 @@
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
-  page-top-margin: 0.5in,
-  page-bottom-margin: 0.5in,
+  page-top-margin: 0.3in,
+  page-bottom-margin: 0.3in,
   page-left-margin: 0.5in,
   page-right-margin: 0.5in,
   page-show-footer: false,
@@ -57,10 +57,10 @@
   header-connections-display-urls-instead-of-usernames: false,
   header-connections-separator: "",
   header-connections-space-between-connections: 0.5cm,
-  section-titles-type: "with_full_line",
+  section-titles-type: "with_partial_line",
   section-titles-line-thickness: 0.5pt,
-  section-titles-space-above: 0.5cm,
-  section-titles-space-below: 0.3cm,
+  section-titles-space-above: 0.35cm,
+  section-titles-space-below: 0.2cm,
   sections-allow-page-break: true,
   sections-space-between-text-based-entries: 0.3em,
   sections-space-between-regular-entries: 1.2em,
@@ -153,9 +153,9 @@
 
   ],
   main-column-second-row: [
-    - Built ETL pipline using Python to migrate EHR providers. Turned a multi-month process into a 2 hour script run.
+    - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours of automated execution.
 
-    - Created and maintained reporting infrastructure built in Python using Ibis, PyDoll, and DuckDB that increased accountability and reduced missed notes and chargeslips by 99\%.
+    - Developed and maintained Python reporting infrastructure using Ibis and DuckDB, improving operational accountability and reducing missed notes and charge slips by 99\%.
 
   ],
 )
@@ -219,15 +219,21 @@
 
 == Skills
 
-#strong[Languages:] Python, Java, C\#, HTML, CSS, JS, GDScript
+#strong[Development:] Object-Oriented Programming, Data Structures, Algorithms, Software Development, Application Development, Software Design, Modular Design
 
-#strong[ETL Libraries:] Pandas, Polars, Ibis, DuckDB, PyDoll, nodriver
+#strong[Engineering:] Git, Version Control, Testing, Debugging, Error Handling, Logging, Documentation, Agile\/Scrum
 
-#strong[Infrastructure:] AWS, Docker
+#strong[Data:] SQL, Relational Databases, ETL, Data Pipelines, Data Processing, Data Validation
 
-#strong[Business Programs:] Excel, Word, PowerPoint, Photoshop, Illustrator, AfterEffects, Premiere
+#strong[Languages:] Python, Java, C\#, HTML, CSS, JS, SQL, GDScript
 
-== Accolades
+#strong[Web & Automation:] REST APIs, HTTP, CSS, JS, JSON, Web Automation, Asynchronous Programming
+
+#strong[Deployment:] Docker, AWS, Linux
+
+#strong[Business Programs:] Excel, Word, PowerPoint
+
+== Awards & Leadership
 
   #regular-entry(
   [
