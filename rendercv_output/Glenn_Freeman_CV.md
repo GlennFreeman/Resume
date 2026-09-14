@@ -41,9 +41,9 @@
 
 *Douglas County Community Services Board DBA ONE Community Health Solution*
 
-- Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours of automated execution.
+- Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
 
-- Developed and maintained Python reporting infrastructure using Ibis and DuckDB, improving operational accountability and reducing missed notes and charge slips by 99%.
+- Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99%.
 
 
 
@@ -55,7 +55,7 @@
 
 *Intelliteach DBA Frontline Managed Services*
 
-- Resolved technical issues across managed client environments while meeting service-level requirements and improving internal documentation.
+- Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
 
 
 
@@ -64,15 +64,13 @@
 
 *June 2024 – present*
 
-Developed a Godot-based Jeopardy-style game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
+Developed a Godot-based game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
 
-- Designed the application architecture in GDScript, including separate game display and host control interfaces.
+- Designed the GDScript architecture with separate game display and host control interfaces.
 
 - Implemented configurable themes, question-set loading, input validation, game-state management, and reusable UI components.
 
-- Designed the application for portable deployment without requiring installation or external runtime dependencies.
-
-- Currently expanding the application with media support, persistent settings, improved controls, and a question-set creation workflow.
+- Designed for portable deployment without installation or external runtime dependencies.
 
 
 
@@ -80,11 +78,9 @@ Developed a Godot-based Jeopardy-style game show application for a live event cl
 
 *Jan 2024 – June 2024*
 
-Led development of a Python application that used a locally hosted LLM through Ollama to help marketing teams generate campaigns from trending news articles.
+Led development of a Python application using a locally hosted Ollama LLM to generate marketing campaigns from trending news.
 
-- Integrated local LLM inference with external news data to create an automated content-generation workflow.
-
-- Designed the application to process, transform, and provide relevant source information as context for generated campaigns.
+- Integrated local LLM inference with external news data to automate a content-generation workflow.
 
 - Won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
 

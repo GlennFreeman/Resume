@@ -37,8 +37,8 @@ cv:
         end_date: present
         location: Douglasville, GA
         highlights:
-          - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours of automated execution.
-          - Developed and maintained Python reporting infrastructure using Ibis and DuckDB, improving operational accountability and reducing missed notes and charge slips by 99%.
+          - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
+          - Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99%.
 
       - company: Intelliteach DBA Frontline Managed Services
         position: Overnight IT Service Desk Analyst
@@ -46,26 +46,24 @@ cv:
         end_date: 2021-08
         location: Atlanta, GA
         highlights:
-          - Resolved technical issues across managed client environments while meeting service-level requirements and improving internal documentation.
+          - Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
 
     projects:
       - name: '[Cognito - Master the Inquiry](https://github.com/GlennFreeman/cognito-master-the-inquiry)'
         start_date: 2024-06
         end_date: present
-        summary: Developed a Godot-based Jeopardy-style game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
+        summary: Developed a Godot-based game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
         highlights:
-          - Designed the application architecture in GDScript, including separate game display and host control interfaces.
+          - Designed the GDScript architecture with separate game display and host control interfaces.
           - Implemented configurable themes, question-set loading, input validation, game-state management, and reusable UI components.
-          - Designed the application for portable deployment without requiring installation or external runtime dependencies.
-          - Currently expanding the application with media support, persistent settings, improved controls, and a question-set creation workflow.
+          - Designed for portable deployment without installation or external runtime dependencies.
 
       - name: '[Marketing AI](https://github.com/GlennFreeman/CSAP)'
         start_date: 2024-01
         end_date: 2024-06
-        summary: Led development of a Python application that used a locally hosted LLM through Ollama to help marketing teams generate campaigns from trending news articles.
+        summary: Led development of a Python application using a locally hosted Ollama LLM to generate marketing campaigns from trending news.
         highlights:
-          - Integrated local LLM inference with external news data to create an automated content-generation workflow.
-          - Designed the application to process, transform, and provide relevant source information as context for generated campaigns.
+          - Integrated local LLM inference with external news data to automate a content-generation workflow.
           - Won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
 
     skills:
@@ -108,10 +106,10 @@ design:
 
   page:
     size: us-letter
-    top_margin: 0.3in
-    bottom_margin: 0.3in
-    left_margin: 0.5in
-    right_margin: 0.5in
+    top_margin: 0.2in
+    bottom_margin: 0.2in
+    left_margin: 0.45in
+    right_margin: 0.45in
     show_footer: False
     show_top_note: False
 
@@ -129,22 +127,22 @@ design:
 
   header:
     alignment: center
-    space_below_name: 0.4cm
-    space_below_headline: 0.7cm
-    space_below_connections: 0.35cm
+    space_below_name: 0.25cm
+    space_below_headline: 0.4cm
+    space_below_connections: 0.2cm
     connections:
       phone_number_format: national
       hyperlink: true
       show_icons: true
       display_urls_instead_of_usernames: false
       separator: ''
-      space_between_connections: 0.5cm
+      space_between_connections: 0.4cm
 
   section_titles:
     type: with_partial_line
     line_thickness: 0.5pt
-    space_above: 0.45cm
-    space_below: 0.2cm
+    space_above: 0.25cm
+    space_below: 0.12cm
 
 locale:
   language: english
