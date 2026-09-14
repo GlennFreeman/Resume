@@ -50,7 +50,7 @@ cv:
 
     projects:
       - name: '[Cognito - Master the Inquiry](https://github.com/GlennFreeman/cognito-master-the-inquiry)'
-        start_date: 2024-06
+        start_date: 2026-06
         end_date: present
         summary: Developed a Godot-based game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
         highlights:

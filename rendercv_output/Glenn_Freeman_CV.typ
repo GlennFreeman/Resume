@@ -187,7 +187,7 @@
 
   ],
   [
-    #emph[June 2024 – present]
+    #emph[June 2026 – present]
 
   ],
   main-column-second-row: [

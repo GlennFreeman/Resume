@@ -62,7 +62,7 @@
 # Projects
 ## **[Cognito - Master the Inquiry](https://github.com/GlennFreeman/cognito-master-the-inquiry)**
 
-*June 2024 – present*
+*June 2026 – present*
 
 Developed a Godot-based game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
 
