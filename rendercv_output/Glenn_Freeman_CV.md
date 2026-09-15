@@ -16,6 +16,8 @@
 
 *BS* *in* *Software Engineering*
 
+- Relevant Coursework： **Data Structures, Database Systems, Software Systems Requirements, Software Testing & Quality Assurance, User Centered Design, Cloud Software Development**
+
 
 
 ## **West Georgia Technical College**
@@ -60,7 +62,7 @@ Led development of a **Python application** using a locally hosted **Ollama LLM*
 
 
 # Skills
-**Development:** Object-Oriented Programming, Data Structures, Algorithms, Software Development, Application Development, Software Design, Modular Design
+**Development:** Object-Oriented Programming, Software Development, Application Development, Software Design
 
 **Engineering:** Git, Version Control, Testing, Debugging, Error Handling, Logging, Documentation, Agile/Scrum
 
@@ -85,7 +87,7 @@ Led development of a **Python application** using a locally hosted **Ollama LLM*
 
 - Developed a **Python ETL pipeline** to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
 
-- Developed **Python reporting infrastructure using Ibis and DuckDB**, reducing missed notes and charge slips by **99%**.
+- Built **Python reporting infrastructure using Ibis and DuckDB**, reducing missed notes and charge slips by **99%**.
 
 
 

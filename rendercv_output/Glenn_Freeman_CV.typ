@@ -113,6 +113,8 @@
 
   ],
   main-column-second-row: [
+    - Relevant Coursework： #strong[Data Structures, Database Systems, Software Systems Requirements, Software Testing & Quality Assurance, User Centered Design, Cloud Software Development]
+
   ],
 )
 
@@ -181,7 +183,7 @@
 
 == Skills
 
-#strong[Development:] Object-Oriented Programming, Data Structures, Algorithms, Software Development, Application Development, Software Design, Modular Design
+#strong[Development:] Object-Oriented Programming, Software Development, Application Development, Software Design
 
 #strong[Engineering:] Git, Version Control, Testing, Debugging, Error Handling, Logging, Documentation, Agile\/Scrum
 
@@ -213,7 +215,7 @@
   main-column-second-row: [
     - Developed a #strong[Python ETL pipeline] to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
 
-    - Developed #strong[Python reporting infrastructure using Ibis and DuckDB], reducing missed notes and charge slips by #strong[99\%].
+    - Built #strong[Python reporting infrastructure using Ibis and DuckDB], reducing missed notes and charge slips by #strong[99\%].
 
   ],
 )

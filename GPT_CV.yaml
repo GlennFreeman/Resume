@@ -19,6 +19,7 @@ cv:
         end_date: present
         location: Marietta, GA
         highlights:
+          - Relevant Coursework： **Data Structures, Database Systems, Software Systems Requirements, Software Testing & Quality Assurance, User Centered Design, Cloud Software Development**
 
       - institution: West Georgia Technical College
         area: Computer Programming, Computer Support Specialist
@@ -50,7 +51,7 @@ cv:
 
     skills:
       - label: Development
-        details: Object-Oriented Programming, Data Structures, Algorithms, Software Development, Application Development, Software Design, Modular Design
+        details: Object-Oriented Programming, Software Development, Application Development, Software Design
 
       - label: Engineering
         details: Git, Version Control, Testing, Debugging, Error Handling, Logging, Documentation, Agile/Scrum
@@ -78,7 +79,7 @@ cv:
         location: Douglasville, GA
         highlights:
           - Developed a **Python ETL pipeline** to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
-          - Developed **Python reporting infrastructure using Ibis and DuckDB**, reducing missed notes and charge slips by **99%**.
+          - Built **Python reporting infrastructure using Ibis and DuckDB**, reducing missed notes and charge slips by **99%**.
 
       - company: Intelliteach DBA Frontline Managed Services
         position: Overnight IT Service Desk Analyst
