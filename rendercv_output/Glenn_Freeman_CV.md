@@ -32,33 +32,6 @@
 
 
 
-# Experience
-## **IT Systems Tech**
-
-*Douglasville, GA*
-
-*Apr 2024 – present*
-
-*Douglas County Community Services Board DBA ONE Community Health Solution*
-
-- Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
-
-- Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99%.
-
-
-
-## **Overnight IT Service Desk Analyst**
-
-*Atlanta, GA*
-
-*Feb 2020 – Aug 2021*
-
-*Intelliteach DBA Frontline Managed Services*
-
-- Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
-
-
-
 # Projects
 ## **[Cognito - Master the Inquiry](https://github.com/GlennFreeman/cognito-master-the-inquiry)**
 
@@ -100,6 +73,33 @@ Led development of a Python application using a locally hosted Ollama LLM to gen
 **Deployment:** Docker, AWS, Linux
 
 **Business Programs:** Excel, Word, PowerPoint
+
+# Experience
+## **IT Systems Tech**
+
+*Douglasville, GA*
+
+*Apr 2024 – present*
+
+*Douglas County Community Services Board DBA ONE Community Health Solution*
+
+- Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
+
+- Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99%.
+
+
+
+## **Overnight IT Service Desk Analyst**
+
+*Atlanta, GA*
+
+*Feb 2020 – Aug 2021*
+
+*Intelliteach DBA Frontline Managed Services*
+
+- Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
+
+
 
 # Awards & Leadership
 ## **Georgia FBLA Collegiate State Leadership Conference**

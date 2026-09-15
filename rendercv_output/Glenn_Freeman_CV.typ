@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 14,
+    day: 15,
   ),
 )
 
@@ -133,48 +133,6 @@
     - FBLA Collegiate Chapter #strong[Vice President], #emph[2023]
 
     - Georgia FBLA Collegiate #strong[Vice President of Communication], #emph[2024]
-
-  ],
-)
-
-== Experience
-
-#regular-entry(
-  [
-    #strong[IT Systems Tech]
-
-    #emph[Douglas County Community Services Board DBA ONE Community Health Solution]
-
-  ],
-  [
-    #emph[Douglasville, GA]
-
-    #emph[Apr 2024 – present]
-
-  ],
-  main-column-second-row: [
-    - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
-
-    - Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99\%.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Overnight IT Service Desk Analyst]
-
-    #emph[Intelliteach DBA Frontline Managed Services]
-
-  ],
-  [
-    #emph[Atlanta, GA]
-
-    #emph[Feb 2020 – Aug 2021]
-
-  ],
-  main-column-second-row: [
-    - Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
 
   ],
 )
@@ -236,6 +194,48 @@
 #strong[Deployment:] Docker, AWS, Linux
 
 #strong[Business Programs:] Excel, Word, PowerPoint
+
+== Experience
+
+#regular-entry(
+  [
+    #strong[IT Systems Tech]
+
+    #emph[Douglas County Community Services Board DBA ONE Community Health Solution]
+
+  ],
+  [
+    #emph[Douglasville, GA]
+
+    #emph[Apr 2024 – present]
+
+  ],
+  main-column-second-row: [
+    - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
+
+    - Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99\%.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Overnight IT Service Desk Analyst]
+
+    #emph[Intelliteach DBA Frontline Managed Services]
+
+  ],
+  [
+    #emph[Atlanta, GA]
+
+    #emph[Feb 2020 – Aug 2021]
+
+  ],
+  main-column-second-row: [
+    - Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
+
+  ],
+)
 
 == Awards & Leadership
 

@@ -30,24 +30,6 @@ cv:
           - FBLA Collegiate Chapter **Vice President**, *2023*
           - Georgia FBLA Collegiate **Vice President of Communication**, *2024*
 
-    experience:
-      - company: Douglas County Community Services Board DBA ONE Community Health Solution
-        position: IT Systems Tech
-        start_date: 2024-04
-        end_date: present
-        location: Douglasville, GA
-        highlights:
-          - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
-          - Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99%.
-
-      - company: Intelliteach DBA Frontline Managed Services
-        position: Overnight IT Service Desk Analyst
-        start_date: 2020-02
-        end_date: 2021-08
-        location: Atlanta, GA
-        highlights:
-          - Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
-
     projects:
       - name: '[Cognito - Master the Inquiry](https://github.com/GlennFreeman/cognito-master-the-inquiry)'
         start_date: 2026-06
@@ -87,6 +69,24 @@ cv:
 
       - label: Business Programs
         details: Excel, Word, PowerPoint
+
+    experience:
+      - company: Douglas County Community Services Board DBA ONE Community Health Solution
+        position: IT Systems Tech
+        start_date: 2024-04
+        end_date: present
+        location: Douglasville, GA
+        highlights:
+          - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
+          - Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99%.
+
+      - company: Intelliteach DBA Frontline Managed Services
+        position: Overnight IT Service Desk Analyst
+        start_date: 2020-02
+        end_date: 2021-08
+        location: Atlanta, GA
+        highlights:
+          - Resolved technical issues across managed client environments while meeting service-level requirements and improving documentation.
 
     Awards & Leadership:
       - name: Georgia FBLA Collegiate State Leadership Conference
