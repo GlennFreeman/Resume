@@ -12,8 +12,8 @@
   page-size: "us-letter",
   page-top-margin: 0.2in,
   page-bottom-margin: 0.2in,
-  page-left-margin: 0.45in,
-  page-right-margin: 0.45in,
+  page-left-margin: 0.4in,
+  page-right-margin: 0.4in,
   page-show-footer: false,
   page-show-top-note: false,
   colors-body: rgb(0, 0, 0),
@@ -49,9 +49,9 @@
   links-show-external-link-icon: false,
   header-alignment: center,
   header-photo-width: 3.5cm,
-  header-space-below-name: 0.25cm,
-  header-space-below-headline: 0.4cm,
-  header-space-below-connections: 0.5cm,
+  header-space-below-name: 0.2cm,
+  header-space-below-headline: 0.3cm,
+  header-space-below-connections: 0.3cm,
   header-connections-hyperlink: true,
   header-connections-show-icons: true,
   header-connections-display-urls-instead-of-usernames: false,
@@ -149,13 +149,13 @@
 
   ],
   main-column-second-row: [
-    #summary[Developed a Godot-based game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.]
+    #summary[Developed a #strong[Godot-based game show application] for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.]
 
-    - Designed the GDScript architecture with separate game display and host control interfaces.
+    - Designed the #strong[GDScript architecture] with separate game display and host control interfaces.
 
-    - Implemented configurable themes, question-set loading, input validation, game-state management, and reusable UI components.
+    - Implemented #strong[configurable themes, question-set loading, input validation, game-state management], and reusable UI components.
 
-    - Designed for portable deployment without installation or external runtime dependencies.
+    - Designed for #strong[portable deployment] without installation or external runtime dependencies.
 
   ],
 )
@@ -170,11 +170,11 @@
 
   ],
   main-column-second-row: [
-    #summary[Led development of a Python application using a locally hosted Ollama LLM to generate marketing campaigns from trending news.]
+    #summary[Led development of a #strong[Python application] using a locally hosted #strong[Ollama LLM] to generate marketing campaigns from trending news.]
 
-    - Integrated local LLM inference with external news data to automate a content-generation workflow.
+    - Integrated #strong[local LLM inference] with external news data to automate a #strong[content-generation workflow].
 
-    - Won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
+    - Won #strong[1st place in Computer Science Case Study] at the 2024 National FBLA Leadership Conference.
 
   ],
 )
@@ -211,9 +211,9 @@
 
   ],
   main-column-second-row: [
-    - Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
+    - Developed a #strong[Python ETL pipeline] to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
 
-    - Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99\%.
+    - Developed #strong[Python reporting infrastructure using Ibis and DuckDB], reducing missed notes and charge slips by #strong[99\%].
 
   ],
 )

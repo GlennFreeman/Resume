@@ -37,13 +37,13 @@
 
 *June 2026 – present*
 
-Developed a Godot-based game show application for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
+Developed a **Godot-based game show application** for a live event client, replacing a PowerPoint-based workflow with a dedicated interactive application.
 
-- Designed the GDScript architecture with separate game display and host control interfaces.
+- Designed the **GDScript architecture** with separate game display and host control interfaces.
 
-- Implemented configurable themes, question-set loading, input validation, game-state management, and reusable UI components.
+- Implemented **configurable themes, question-set loading, input validation, game-state management**, and reusable UI components.
 
-- Designed for portable deployment without installation or external runtime dependencies.
+- Designed for **portable deployment** without installation or external runtime dependencies.
 
 
 
@@ -51,11 +51,11 @@ Developed a Godot-based game show application for a live event client, replacing
 
 *Jan 2024 – June 2024*
 
-Led development of a Python application using a locally hosted Ollama LLM to generate marketing campaigns from trending news.
+Led development of a **Python application** using a locally hosted **Ollama LLM** to generate marketing campaigns from trending news.
 
-- Integrated local LLM inference with external news data to automate a content-generation workflow.
+- Integrated **local LLM inference** with external news data to automate a **content-generation workflow**.
 
-- Won 1st place in Computer Science Case Study at the 2024 National FBLA Leadership Conference.
+- Won **1st place in Computer Science Case Study** at the 2024 National FBLA Leadership Conference.
 
 
 
@@ -83,9 +83,9 @@ Led development of a Python application using a locally hosted Ollama LLM to gen
 
 *Douglas County Community Services Board DBA ONE Community Health Solution*
 
-- Developed a Python ETL pipeline to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
+- Developed a **Python ETL pipeline** to migrate EHR provider data, reducing a multi-month manual process to approximately two hours.
 
-- Developed Python reporting infrastructure using Ibis and DuckDB, reducing missed notes and charge slips by 99%.
+- Developed **Python reporting infrastructure using Ibis and DuckDB**, reducing missed notes and charge slips by **99%**.
 
 
 
